@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 
-Este repositório não apenas fornece o código-fonte em Java para as classes e interfaces correspondentes e também a representação do Diagrama de Classes, espero te interpletado de forma clara o desafio.
+Este repositório não apenas fornece o código-fonte em Java para as classes e interfaces correspondentes e também a representação do Diagrama de Classes, espero ter interpretado de forma clara o desafio.
 
 
 ## 📊 Diagrama UML
